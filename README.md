@@ -44,7 +44,17 @@ The program currently supports the following colors:
 - **Blue**
 
 # Project Structure
-color-detection/ │ ├── color_detection.py # Main code for color detection ├── utils.py # Helper functions for color limit calculations └── README.md # This README file
+src/ 
+
+├── color-detection.py  &nbsp; &nbsp; # Main code for color detection 
+
+├── utils.py &nbsp; &nbsp;     &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;   # Helper functions for color limit calculations 
+
+.gitignore    &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;   # Git ignore configuration 
+
+README.md    &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;      # This README file 
+
+requirements.txt     &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  # Python dependencies
 
 # Customization and Extension
 

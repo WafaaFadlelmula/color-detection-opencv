@@ -46,15 +46,15 @@ The program currently supports the following colors:
 # Project Structure
 src/ 
 
-├── color-detection.py  &nbsp; &nbsp; # Main code for color detection 
+├── color-detection.py  &nbsp; &nbsp;# Main code for color detection 
 
-├── utils.py &nbsp; &nbsp;     &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;   # Helper functions for color limit calculations 
+├── utils.py &nbsp; &nbsp;     &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;# Helper functions for color limit calculations 
 
-.gitignore    &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;   # Git ignore configuration 
+.gitignore    &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;# Git ignore configuration 
 
-README.md    &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;      # This README file 
+README.md    &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;# This README file 
 
-requirements.txt     &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  # Python dependencies
+requirements.txt     &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;# Python dependencies
 
 # Customization and Extension
 
